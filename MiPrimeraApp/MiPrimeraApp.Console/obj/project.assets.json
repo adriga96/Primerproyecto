@@ -5803,11 +5803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj",
+      "projectUniqueName": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj",
       "projectName": "MiPrimeraApp.Console",
-      "projectPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj",
+      "projectPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj",
       "packagesPath": "C:\\Users\\Daniela Gallego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\obj\\",
+      "outputPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5830,11 +5830,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Dominio\\MiprimeraApp.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Dominio\\MiprimeraApp.Dominio.csproj"
+            "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Dominio\\MiprimeraApp.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Dominio\\MiprimeraApp.Dominio.csproj"
             },
-            "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Persistencia\\MiprimeraApp.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Persistencia\\MiprimeraApp.Persistencia.csproj"
+            "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Persistencia\\MiprimeraApp.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Persistencia\\MiprimeraApp.Persistencia.csproj"
             }
           }
         }

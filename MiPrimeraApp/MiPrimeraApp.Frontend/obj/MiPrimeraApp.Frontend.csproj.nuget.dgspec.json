@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\MiPrimeraApp.Frontend.csproj": {}
+    "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\MiPrimeraApp.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\MiPrimeraApp.Frontend.csproj": {
+    "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\MiPrimeraApp.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\MiPrimeraApp.Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\MiPrimeraApp.Frontend.csproj",
         "projectName": "MiPrimeraApp.Frontend",
-        "projectPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\MiPrimeraApp.Frontend.csproj",
+        "projectPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\MiPrimeraApp.Frontend.csproj",
         "packagesPath": "C:\\Users\\Daniela Gallego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\obj\\",
+        "outputPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
