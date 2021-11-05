@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj": {}
+    "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj": {
+    "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj",
+        "projectUniqueName": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj",
         "projectName": "MiPrimeraApp.Console",
-        "projectPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj",
+        "projectPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\MiPrimeraApp.Console.csproj",
         "packagesPath": "C:\\Users\\Daniela Gallego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp.Console\\obj\\",
+        "outputPath": "C:\\Users\\Daniela Gallego\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
