@@ -9,6 +9,7 @@ namespace MiPrimeraApp.Dominio
         public string Ciudad {get; set;}
         public DateTime FechaNacimiento {get; set;}
         public Medico Medico {get; set;}
+        public List<SignoVital> SignosVitales {get; set;}
         
     }
 }

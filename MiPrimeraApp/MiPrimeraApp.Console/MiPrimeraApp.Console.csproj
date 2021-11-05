@@ -13,8 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MiPrimeraApp.Dominio\MiPrimeraApp.Dominio.csproj" />
-    <ProjectReference Include="..\MiPrimeraApp.Persistencia\MiPrimeraApp.Persistencia.csproj" />
+    <ProjectReference Include="..\MiprimeraApp.Dominio\MiprimeraApp.Dominio.csproj" />
+    <ProjectReference Include="..\MiprimeraApp.Persistencia\MiprimeraApp.Persistencia.csproj" />
   </ItemGroup>
 
 </Project>

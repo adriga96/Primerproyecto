@@ -1,12 +1,12 @@
-﻿using System;
+using System;
 
-namespace MiPrimeraApp.Console
+namespace MiprimeraApp.Consola
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Bienvenidos al 4 noviembre");
         }
     }
 }
