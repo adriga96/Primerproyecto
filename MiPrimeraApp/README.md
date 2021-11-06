@@ -1,6 +1,6 @@
 TUTORIAL INICIAL ASP.NET CORE 5.0
 
-    dotnet start: Ejecutar el programa
+    dotnet run: Ejecutar el programa
     dotnet build: Compilar el programa y verificar si hay errores
     dotnet --version: Verificar la versión del SDK del .Net
 

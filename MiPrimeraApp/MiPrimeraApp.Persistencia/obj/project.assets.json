@@ -1520,14 +1520,14 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "MiprimeraApp.Dominio/1.0.0": {
+      "MiPrimeraApp.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/MiprimeraApp.Dominio.dll": {}
+          "bin/placeholder/MiPrimeraApp.Dominio.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MiprimeraApp.Dominio.dll": {}
+          "bin/placeholder/MiPrimeraApp.Dominio.dll": {}
         }
       }
     }
@@ -5798,19 +5798,19 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "MiprimeraApp.Dominio/1.0.0": {
+    "MiPrimeraApp.Dominio/1.0.0": {
       "type": "project",
-      "path": "../MiprimeraApp.Dominio/MiprimeraApp.Dominio.csproj",
-      "msbuildProject": "../MiprimeraApp.Dominio/MiprimeraApp.Dominio.csproj"
+      "path": "../MiPrimeraApp.Dominio/MiPrimeraApp.Dominio.csproj",
+      "msbuildProject": "../MiPrimeraApp.Dominio/MiPrimeraApp.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "MiPrimeraApp.Dominio >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.11",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.11",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.11",
-      "MiprimeraApp.Dominio >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.11"
     ]
   },
   "packageFolders": {
@@ -5821,11 +5821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Persistencia\\MiprimeraApp.Persistencia.csproj",
-      "projectName": "MiprimeraApp.Persistencia",
-      "projectPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Persistencia\\MiprimeraApp.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Persistencia\\MiPrimeraApp.Persistencia.csproj",
+      "projectName": "MiPrimeraApp.Persistencia",
+      "projectPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Persistencia\\MiPrimeraApp.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Daniela Gallego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5848,8 +5848,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Dominio\\MiprimeraApp.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiprimeraApp.Dominio\\MiprimeraApp.Dominio.csproj"
+            "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Dominio\\MiPrimeraApp.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Daniela Gallego\\Desktop\\Luz Adriana\\ADSI 2207208\\Carlos Luna\\Ejercicio_Sena_2021\\Primerproyecto\\MiPrimeraApp\\MiPrimeraApp.Dominio\\MiPrimeraApp.Dominio.csproj"
             }
           }
         }
