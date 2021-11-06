@@ -15,6 +15,7 @@ namespace MiPrimeraApp.Persistencia
             if(!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer("Initial Catalog=Hospital2207208; Data Source=LAPTOP-PLLBCL78; Integrated Security=true");
+                    
                         /*
                         initial catalog: nombre de la base de datos
                         data source: nombre del servidor de la base de datos

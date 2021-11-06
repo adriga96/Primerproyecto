@@ -35,3 +35,7 @@ TUTORIAL INICIAL ASP.NET CORE 5.0
         dotnet add package Microsoft.EntityFameworkCore.Tools (Carpeta Persistencia)
         dotnet add package Microsoft.EntityFameworkCore.Design (Carpeta Consola y Persistencia)
         dotnet add package Microsoft.EntityFameworkCore.SqlServer (Carpeta Persistencia)
+
+    9) Crear la migración a la base de datos
+         dotnet ef migrations add Inicial --startup-project ..\MiPrimeraApp.Console\
+         dotnet ef database update --startup-project ..\MiPrimeraApp.Console\
